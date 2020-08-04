@@ -4,6 +4,7 @@
 Coming from both corporate and freelancing background.
 
 - I'm currently working on developing a DatingApp in Angular 10 / .Net core WebAPI (v 3.1) / Entity Framework core ( v 3.1) / SQL Server
+Repo - https://github.com/tripat86/DatingApp
 
 Email - tripat86@gmail.com
 
