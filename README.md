@@ -1,4 +1,6 @@
-### Hi there 👋
+### Architect, dev, & trainer at ResponseTek Consulting providing consulting and training solutions for Angular, JavaScript, C#, ASP.NET Core
+
+Email - tripat86@gmail.com
 
 <!--
 **tripat86/tripat86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
