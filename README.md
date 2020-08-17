@@ -7,10 +7,12 @@ Coming from both corporate and freelancing background.
 Repo - https://github.com/tripat86/DatingApp
 Url - https://dappdemo.azurewebsites.net/  ( Azure deployed - Login with username "lola" and password as "password" )
 
-2) E-commerce app with .Net Core and Angular
+2) Currently working on building E-commerce app with .Net Core 3.1.5 and Angular 10.
 Repo - https://github.com/tripat86/skinet
 
 Email - tripat86@gmail.com
+Mobile - 9780112499
+Country - India
 
 <!--
 **tripat86/tripat86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
