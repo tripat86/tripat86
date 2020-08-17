@@ -3,8 +3,12 @@
 10+ years of experience in developing complex distributed data-driven solutions using Microsoft Full stack.
 Coming from both corporate and freelancing background.
 
-- I'm currently working on developing a DatingApp in Angular 10 / .Net core WebAPI (v 3.1) / Entity Framework core ( v 3.1) / SQL Server
+1) Completed development on a Dating App in Angular 10 / .Net core WebAPI (v 3.1) / Entity Framework core ( v 3.1) / .Net Identity and Role Management / SQL Server
 Repo - https://github.com/tripat86/DatingApp
+Url - https://dappdemo.azurewebsites.net/  ( Azure deployed - Login with username "lola" and password as "password" )
+
+2) E-commerce app with .Net Core and Angular
+Repo - https://github.com/tripat86/skinet
 
 Email - tripat86@gmail.com
 
