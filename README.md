@@ -1,4 +1,4 @@
-### Architect, dev, & trainer at ResponseTek Consulting providing consulting and training solutions for Angular, JavaScript, C#, ASP.NET Core
+### Architect, dev, & trainer providing consulting and training solutions for Angular, C#, ASP.NET Core, jQuery, JavaScript.
 
 10+ years of experience in developing complex distributed data-driven solutions using Microsoft Full stack.
 Coming from both corporate and freelancing background.
